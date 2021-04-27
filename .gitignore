@@ -24,3 +24,7 @@ yarn-error.log*
 
 # console
 antigen.zsh
+
+# Parcel related files
+dist/
+.cache/
